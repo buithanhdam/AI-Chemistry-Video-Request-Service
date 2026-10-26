@@ -1,0 +1,26 @@
+title: "Ionic vs Covalent Bonding"
+query: "What is the difference between ionic and covalent bonding?"
+key_concepts:
+  - "Ionic bond = transfer of electrons (metal + nonmetal)"
+  - "Covalent bond = sharing of electrons (nonmetal + nonmetal)"
+  - "Ionic compounds form crystal lattices, high melting points, conduct when dissolved"
+  - "Covalent compounds form molecules, lower melting points, usually do not conduct"
+mock_script:
+  title: "Ionic vs Covalent Bonding"
+  sections:
+    - heading: "Transfer vs Share"
+      key_points:
+        - "Ionic: metal gives electron(s) to nonmetal (NaCl)"
+        - "Covalent: nonmetals share pairs (H2O)"
+      narration: "The key difference is what happens to the electrons. In ionic bonding, one atom transfers electrons to another, like sodium giving an electron to chlorine in table salt. In covalent bonding, atoms share electrons, like hydrogen and oxygen in water."
+    - heading: "Why the Difference?"
+      key_points:
+        - "Big electronegativity gap → transfer (ionic)"
+        - "Small gap → sharing (covalent)"
+      narration: "The difference comes from how strongly each atom attracts electrons. A big difference in pull causes transfer, making ionic bonds. A small difference favors sharing, making covalent bonds."
+    - heading: "Different Properties"
+      key_points:
+        - "Ionic: crystals, high melting point, conductive in solution"
+        - "Covalent: molecules, lower melting point, usually non-conductive"
+      narration: "These bonding styles give different properties. Ionic compounds form hard crystals with high melting points and conduct electricity when dissolved. Covalent compounds form individual molecules with lower melting points and usually do not conduct electricity."
+  summary: "Ionic bonds transfer electrons between metal and nonmetal; covalent bonds share electrons between nonmetals — leading to different compound structures and properties."

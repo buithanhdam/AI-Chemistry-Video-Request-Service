@@ -1,0 +1,26 @@
+title: "How the pH Scale Works"
+query: "How does the pH scale work?"
+key_concepts:
+  - "pH measures acidity/basicity from 0 to 14"
+  - "pH 7 is neutral (pure water)"
+  - "Below 7 acidic, above 7 basic"
+  - "Each unit is 10x change in H+ concentration"
+mock_script:
+  title: "Understanding the pH Scale"
+  sections:
+    - heading: "What is pH?"
+      key_points:
+        - "pH = potential of Hydrogen"
+        - "Scale 0–14"
+      narration: "The pH scale measures how acidic or basic a solution is. It ranges from 0 to 14, with 7 being neutral, like pure water."
+    - heading: "Acidic vs Basic"
+      key_points:
+        - "pH < 7 = acidic (lemon juice ~2, vinegar ~3)"
+        - "pH > 7 = basic (baking soda ~9, soap ~10-12)"
+      narration: "Solutions with pH below 7 are acidic, like lemon juice or vinegar. Solutions above 7 are basic, like baking soda dissolved in water."
+    - heading: "The Logarithmic Scale"
+      key_points:
+        - "Each pH unit = 10x difference in H+ concentration"
+        - "pH 2 is 100,000x more acidic than pH 7"
+      narration: "The pH scale is logarithmic. Each step of one unit means a tenfold change in hydrogen ion concentration. So pH 2 is one hundred thousand times more acidic than neutral water."
+  summary: "pH is a logarithmic scale (0-14) of hydrogen ion concentration; 7 is neutral, each unit is a 10x change."

@@ -1,0 +1,26 @@
+title: "Why Atoms Form Covalent Bonds"
+query: "Why do atoms form covalent bonds?"
+key_concepts:
+  - "Atoms bond to achieve a stable, full outer electron shell (octet rule)"
+  - "Covalent bond = sharing of electron pairs between atoms"
+  - "Most common between nonmetals"
+  - "Shared pair of electrons counts toward both atoms' valence shells"
+mock_script:
+  title: "Why Atoms Form Covalent Bonds"
+  sections:
+    - heading: "The Drive for Stability"
+      key_points:
+        - "Atoms are most stable with a full outer shell (octet rule)"
+        - "Noble gases already stable, others need to bond"
+      narration: "Atoms form bonds because they want to reach a stable arrangement of electrons, usually a full outer shell of eight. This is called the octet rule."
+    - heading: "Sharing Electrons"
+      key_points:
+        - "Covalent bond = one or more shared electron pairs"
+        - "Example: H2, O2, H2O, CH4"
+      narration: "In a covalent bond, two atoms share one or more pairs of electrons. The shared pair counts toward both atoms' outer shells. For example, two hydrogen atoms share their electrons to form H2."
+    - heading: "Why Share Instead of Transfer?"
+      key_points:
+        - "Nonmetals have similar electronegativity"
+        - "Similar pull on electrons → sharing is easier"
+      narration: "Covalent bonding happens mostly between nonmetals, because they pull on electrons with similar strength. Sharing is easier than one atom taking electrons from the other."
+  summary: "Atoms form covalent bonds by sharing electron pairs so each atom reaches a stable, full outer electron shell (octet rule)."
